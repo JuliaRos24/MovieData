@@ -13,7 +13,8 @@ This data analysis project aims to provide insights into the performance and tre
 By analyzing version aspects of the movie data, we seek to identify patterns, make data-driven recommendations, and gain a deeper understanding of the industry dynamics.
 
 ### Data sources
-Movie Data: The primary dataset used for the analysis is the "Movies Data Analysis Dashboard.xmls" file, containing detailed information about each movie's names, budget, actors, directors etc.
+Movie Data: The primary dataset used for the analysis is the [Movies Data Analysis Dashboard.xlsx](https://github.com/user-attachments/files/16401524/Movies.Data.Analysis.Dashboard.xlsx)
+file, containing detailed information about each movie's names, budget, actors, directors etc.
 
 ### Tools
  - Power Query - Used Power Query for Data Cleaning
