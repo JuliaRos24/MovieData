@@ -2,7 +2,7 @@
 Table of Content
  - [Project Overview](#project-overview)
  - [Data sources](#data-sources)
- - [Tools](#data)
+ - [Tools](#tools)
  - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
  - [Exploratory Data Analysis](#exploratory-data-analysis)
  - [Results and Findings](#results-and-findings)
@@ -40,6 +40,7 @@ As an example:
 The best profitable movie was "The Devil Inside" in the horror genre: with a budget Box Office Revenue of over 100 Million dollars
 The most payable actor was Tom Cruise
 The most profitable season for new releases was the summer
+![MovieDataDashboard](https://github.com/user-attachments/assets/317c9580-88f0-44eb-a34e-713db12f713e)
 
 ### Challenges in Analysis
 #### M Language
