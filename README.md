@@ -33,13 +33,15 @@ The following tasks have been performed during the initial data preparation phas
 - What month/year had the best revenue release date?
 
 ### Results and Findings
-The "Top 5 Movies By Box Office Revenue in USD" section indicates the high-budget movies
+The "Top 5 Movies By Box Office Revenue in USD" section indicates the high-budget movies.
 Analyze the relationship between budget size and box office revenue to find the optional budget range that maximizes profitability. 
 Avoid overspending unless the data suggests a strong return on investment.
-As an example:
-The best profitable movie was "The Devil Inside" in the horror genre: with a budget Box Office Revenue of over 100 Million dollars
-The most payable actor was Tom Cruise
-The most profitable season for new releases was the summer
+
+As an example for 2016 year:
+ - The best profitable movie was "Lights Out": with a budget Box Office Revenue of over 24 Million dollars
+ - The best revenue was the "Batman v Superman" movie with a Box Office Revenue of almost 900 million.
+ - The most payable actor was Ben Affleck
+ - The most profitable month for new releases was July
 ![MovieDataDashboard](https://github.com/user-attachments/assets/317c9580-88f0-44eb-a34e-713db12f713e)
 
 ### Challenges in Analysis
