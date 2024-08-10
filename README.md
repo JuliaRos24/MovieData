@@ -47,8 +47,7 @@ As an example for 2016 year:
 
 ### Challenges in Analysis
 #### M Language
-One of the challenges that I faced through  the work on my file, was a specific code for Grouping in M language which enabled me to combine genres together for future analysis.
-There were 2 columns for genres, but for the proper analysis I've had to combine both tables to have the same format: (Action/Comedy and not Comedy/Action)
+While working on my file, one of the challenges I encountered was creating a specific M language code for grouping that allowed me to merge genres for future analysis. With two columns for genres, I needed to combine the tables to ensure a consistent format (e.g., Action/Comedy instead of Comedy/Action).
 
 ```
 = Table.Group(#"Sorted Rows1", {"Movie Title"}, 
